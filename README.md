@@ -67,3 +67,16 @@ chmod +x *.sh
 * **configs/**: Contains the Nginx `wordpress.conf` template.
 * **.env**: Centralized configuration for all scripts (User-created).
 ```
+
+```
+## Screenshots
+
+Home page
+![Home page](screenshots/wordpress1.png)
+
+Login page
+![Login Page](screenshots/wordpress2.png)
+
+Dashboard
+![Dashboard Page](screenshots/wordpress3.png)
+
